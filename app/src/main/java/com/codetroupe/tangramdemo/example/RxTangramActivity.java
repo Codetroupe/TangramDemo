@@ -61,6 +61,7 @@ import com.squareup.picasso.Picasso.LoadedFrom;
 import com.squareup.picasso.RequestCreator;
 import com.squareup.picasso.Target;
 import com.tmall.wireless.tangram.TangramBuilder;
+
 import com.tmall.wireless.tangram.TangramEngine;
 import com.tmall.wireless.tangram.dataparser.concrete.Card;
 
